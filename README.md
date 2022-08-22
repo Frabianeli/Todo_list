@@ -6,6 +6,8 @@
 /todo
 - GET (obtener todos los todos)
 - POST (crear un nuevo todo)
+
+
 /todo/:id
 - GET (obtener todo en específico)
 - PATCH (editar solo isCompeleted)
